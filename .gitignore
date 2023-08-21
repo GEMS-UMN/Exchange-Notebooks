@@ -2,3 +2,4 @@ api_key.py
 rapid
 **.ipynb_checkpoints**
 **.tif
+**__pycache__**
