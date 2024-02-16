@@ -1,7 +1,8 @@
 **During the free trial period, the GEMS Exchange APIs are strictly for limited personal use, and you may not share your API access nor the data you download via the API.**
 
 The data accessed by this API are provided under the following terms and conditions:
-Research use — These data may be used by a student, teacher or researcher at an academic or non-profit research institution, for student project(s), teaching or research purposes.
+
+* Research use — These data may be used by a student, teacher or researcher at an academic or non-profit research institution, for student project(s), teaching or research purposes.
 
 * Non-Commercial use — These data may not be used for commercial purposes.
 
