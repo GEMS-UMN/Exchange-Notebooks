@@ -9,3 +9,5 @@ The data accessed by this API are provided under the following terms and conditi
 * Own use — These data are for own use only. They may not be shared with third parties, and are thereby non-transferable and non-sublicensable.
 
 * Attribution — You are encouraged to give appropriate credit in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+* No Derivatives — If you remix, transform, or build upon these data, you may not distribute the modified data.
